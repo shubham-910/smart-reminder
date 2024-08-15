@@ -20,9 +20,3 @@ Smart Reminder is a AWS based application which will help user to get a task rem
 ### 1. **Deployment:**
    - **Version Control:** Utilized Github for version control, with individual branches for each team member to ensure smooth collaboration.
 
-    ```sh
-    mvn spring-boot:run
-    ```
-
----
-
