@@ -14,9 +14,3 @@ Smart Reminder is a AWS based application which will help user to get a task rem
 ## Technologies Used
 - **React JS:** A JavaScript library used for building dynamic and responsive user interfaces, ensuring a seamless user experience.
 - **AWS:** Amazon web services that gives a platform and group of tools to host application.
-
-## Work Done in Developing the Proposed Application Prototype
-
-### 1. **Deployment:**
-   - **Version Control:** Utilized Github for version control, with individual branches for each team member to ensure smooth collaboration.
-
