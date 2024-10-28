@@ -8,7 +8,7 @@ export const handler = async (event) => {
    
    const { taskId } = eventBody.pathParameters;
 
-   const stringToNumberTaskid = parseInt(taskId);
+   const stringToNumberTaskid = taskId;
    
    const dataToDelete = {
       TableName: 'tasks',

@@ -19,6 +19,7 @@ export const handler = async (event) => {
     
     const dataToStore = {
       TableName: 'tasks',
+      
       Item: {
         taskId: Date.now(), 
         taskName,
